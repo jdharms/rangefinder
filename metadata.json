@@ -1,0 +1,451 @@
+{
+  "courses": {
+    "japan": {
+      "name": "Japan",
+      "holes": [
+        {
+          "number": 1,
+          "par": 4,
+          "distance": 400,
+          "image": "images/japan/hole_01.png",
+          "width": 176,
+          "height": 304
+        },
+        {
+          "number": 2,
+          "par": 4,
+          "distance": 392,
+          "image": "images/japan/hole_02.png",
+          "width": 176,
+          "height": 256
+        },
+        {
+          "number": 3,
+          "par": 5,
+          "distance": 534,
+          "image": "images/japan/hole_03.png",
+          "width": 176,
+          "height": 336
+        },
+        {
+          "number": 4,
+          "par": 3,
+          "distance": 202,
+          "image": "images/japan/hole_04.png",
+          "width": 176,
+          "height": 240
+        },
+        {
+          "number": 5,
+          "par": 4,
+          "distance": 410,
+          "image": "images/japan/hole_05.png",
+          "width": 176,
+          "height": 288
+        },
+        {
+          "number": 6,
+          "par": 3,
+          "distance": 166,
+          "image": "images/japan/hole_06.png",
+          "width": 176,
+          "height": 240
+        },
+        {
+          "number": 7,
+          "par": 5,
+          "distance": 535,
+          "image": "images/japan/hole_07.png",
+          "width": 176,
+          "height": 352
+        },
+        {
+          "number": 8,
+          "par": 4,
+          "distance": 464,
+          "image": "images/japan/hole_08.png",
+          "width": 176,
+          "height": 240
+        },
+        {
+          "number": 9,
+          "par": 4,
+          "distance": 418,
+          "image": "images/japan/hole_09.png",
+          "width": 176,
+          "height": 288
+        },
+        {
+          "number": 10,
+          "par": 4,
+          "distance": 350,
+          "image": "images/japan/hole_10.png",
+          "width": 176,
+          "height": 256
+        },
+        {
+          "number": 11,
+          "par": 4,
+          "distance": 368,
+          "image": "images/japan/hole_11.png",
+          "width": 176,
+          "height": 256
+        },
+        {
+          "number": 12,
+          "par": 5,
+          "distance": 535,
+          "image": "images/japan/hole_12.png",
+          "width": 176,
+          "height": 336
+        },
+        {
+          "number": 13,
+          "par": 3,
+          "distance": 160,
+          "image": "images/japan/hole_13.png",
+          "width": 176,
+          "height": 240
+        },
+        {
+          "number": 14,
+          "par": 4,
+          "distance": 464,
+          "image": "images/japan/hole_14.png",
+          "width": 176,
+          "height": 288
+        },
+        {
+          "number": 15,
+          "par": 4,
+          "distance": 410,
+          "image": "images/japan/hole_15.png",
+          "width": 176,
+          "height": 272
+        },
+        {
+          "number": 16,
+          "par": 3,
+          "distance": 192,
+          "image": "images/japan/hole_16.png",
+          "width": 176,
+          "height": 240
+        },
+        {
+          "number": 17,
+          "par": 4,
+          "distance": 432,
+          "image": "images/japan/hole_17.png",
+          "width": 176,
+          "height": 320
+        },
+        {
+          "number": 18,
+          "par": 5,
+          "distance": 605,
+          "image": "images/japan/hole_18.png",
+          "width": 176,
+          "height": 336
+        }
+      ]
+    },
+    "us": {
+      "name": "US",
+      "holes": [
+        {
+          "number": 1,
+          "par": 4,
+          "distance": 328,
+          "image": "images/us/hole_01.png",
+          "width": 176,
+          "height": 288
+        },
+        {
+          "number": 2,
+          "par": 5,
+          "distance": 481,
+          "image": "images/us/hole_02.png",
+          "width": 176,
+          "height": 352
+        },
+        {
+          "number": 3,
+          "par": 4,
+          "distance": 446,
+          "image": "images/us/hole_03.png",
+          "width": 176,
+          "height": 272
+        },
+        {
+          "number": 4,
+          "par": 3,
+          "distance": 154,
+          "image": "images/us/hole_04.png",
+          "width": 176,
+          "height": 240
+        },
+        {
+          "number": 5,
+          "par": 4,
+          "distance": 392,
+          "image": "images/us/hole_05.png",
+          "width": 176,
+          "height": 288
+        },
+        {
+          "number": 6,
+          "par": 4,
+          "distance": 400,
+          "image": "images/us/hole_06.png",
+          "width": 176,
+          "height": 288
+        },
+        {
+          "number": 7,
+          "par": 3,
+          "distance": 167,
+          "image": "images/us/hole_07.png",
+          "width": 176,
+          "height": 240
+        },
+        {
+          "number": 8,
+          "par": 5,
+          "distance": 560,
+          "image": "images/us/hole_08.png",
+          "width": 176,
+          "height": 336
+        },
+        {
+          "number": 9,
+          "par": 4,
+          "distance": 410,
+          "image": "images/us/hole_09.png",
+          "width": 176,
+          "height": 304
+        },
+        {
+          "number": 10,
+          "par": 3,
+          "distance": 217,
+          "image": "images/us/hole_10.png",
+          "width": 176,
+          "height": 240
+        },
+        {
+          "number": 11,
+          "par": 4,
+          "distance": 421,
+          "image": "images/us/hole_11.png",
+          "width": 176,
+          "height": 304
+        },
+        {
+          "number": 12,
+          "par": 5,
+          "distance": 642,
+          "image": "images/us/hole_12.png",
+          "width": 176,
+          "height": 320
+        },
+        {
+          "number": 13,
+          "par": 4,
+          "distance": 420,
+          "image": "images/us/hole_13.png",
+          "width": 176,
+          "height": 304
+        },
+        {
+          "number": 14,
+          "par": 4,
+          "distance": 400,
+          "image": "images/us/hole_14.png",
+          "width": 176,
+          "height": 256
+        },
+        {
+          "number": 15,
+          "par": 4,
+          "distance": 428,
+          "image": "images/us/hole_15.png",
+          "width": 176,
+          "height": 304
+        },
+        {
+          "number": 16,
+          "par": 3,
+          "distance": 230,
+          "image": "images/us/hole_16.png",
+          "width": 176,
+          "height": 240
+        },
+        {
+          "number": 17,
+          "par": 4,
+          "distance": 435,
+          "image": "images/us/hole_17.png",
+          "width": 176,
+          "height": 304
+        },
+        {
+          "number": 18,
+          "par": 5,
+          "distance": 571,
+          "image": "images/us/hole_18.png",
+          "width": 176,
+          "height": 336
+        }
+      ]
+    },
+    "uk": {
+      "name": "UK",
+      "holes": [
+        {
+          "number": 1,
+          "par": 4,
+          "distance": 418,
+          "image": "images/uk/hole_01.png",
+          "width": 176,
+          "height": 288
+        },
+        {
+          "number": 2,
+          "par": 4,
+          "distance": 393,
+          "image": "images/uk/hole_02.png",
+          "width": 176,
+          "height": 272
+        },
+        {
+          "number": 3,
+          "par": 5,
+          "distance": 550,
+          "image": "images/uk/hole_03.png",
+          "width": 176,
+          "height": 336
+        },
+        {
+          "number": 4,
+          "par": 3,
+          "distance": 221,
+          "image": "images/uk/hole_04.png",
+          "width": 176,
+          "height": 240
+        },
+        {
+          "number": 5,
+          "par": 4,
+          "distance": 431,
+          "image": "images/uk/hole_05.png",
+          "width": 176,
+          "height": 336
+        },
+        {
+          "number": 6,
+          "par": 4,
+          "distance": 357,
+          "image": "images/uk/hole_06.png",
+          "width": 176,
+          "height": 304
+        },
+        {
+          "number": 7,
+          "par": 4,
+          "distance": 428,
+          "image": "images/uk/hole_07.png",
+          "width": 176,
+          "height": 288
+        },
+        {
+          "number": 8,
+          "par": 3,
+          "distance": 201,
+          "image": "images/uk/hole_08.png",
+          "width": 176,
+          "height": 256
+        },
+        {
+          "number": 9,
+          "par": 5,
+          "distance": 528,
+          "image": "images/uk/hole_09.png",
+          "width": 176,
+          "height": 368
+        },
+        {
+          "number": 10,
+          "par": 4,
+          "distance": 325,
+          "image": "images/uk/hole_10.png",
+          "width": 176,
+          "height": 288
+        },
+        {
+          "number": 11,
+          "par": 4,
+          "distance": 424,
+          "image": "images/uk/hole_11.png",
+          "width": 176,
+          "height": 352
+        },
+        {
+          "number": 12,
+          "par": 3,
+          "distance": 162,
+          "image": "images/uk/hole_12.png",
+          "width": 176,
+          "height": 240
+        },
+        {
+          "number": 13,
+          "par": 5,
+          "distance": 571,
+          "image": "images/uk/hole_13.png",
+          "width": 176,
+          "height": 352
+        },
+        {
+          "number": 14,
+          "par": 4,
+          "distance": 403,
+          "image": "images/uk/hole_14.png",
+          "width": 176,
+          "height": 240
+        },
+        {
+          "number": 15,
+          "par": 4,
+          "distance": 410,
+          "image": "images/uk/hole_15.png",
+          "width": 176,
+          "height": 304
+        },
+        {
+          "number": 16,
+          "par": 5,
+          "distance": 571,
+          "image": "images/uk/hole_16.png",
+          "width": 176,
+          "height": 336
+        },
+        {
+          "number": 17,
+          "par": 3,
+          "distance": 196,
+          "image": "images/uk/hole_17.png",
+          "width": 176,
+          "height": 240
+        },
+        {
+          "number": 18,
+          "par": 4,
+          "distance": 460,
+          "image": "images/uk/hole_18.png",
+          "width": 176,
+          "height": 352
+        }
+      ]
+    }
+  }
+}
